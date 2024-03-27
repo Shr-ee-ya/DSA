@@ -1,0 +1,101 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <string.h>
+
+#define MAX_WORD_LENGTH 20
+#define NUM_WORDS 5
+
+typedef struct Node 
+{
+    	char word[MAX_WORD_LENGTH];
+    	struct Node* next;
+} Node;
+
+Node* dictionary = NULL;
+
+Node* createNode(char* word) 
+{
+    	Node* newNode = (Node*)malloc(sizeof(Node));
+    	if (newNode == NULL) 
+{
+        		printf("Memory allocation failed!\n");
+        		exit(EXIT_FAILURE);
+   	}
+    	strcpy(newNode->word, word);
+    	newNode->next = NULL;
+    	return newNode;
+}
+
+void insertWord(char* word) 
+{
+    	Node* newNode = createNode(word);
+    	if (dictionary == NULL) 
+{
+        		dictionary = newNode;
+    	} 
+else 
+{
+        		Node* temp = dictionary;
+        		while (temp->next != NULL) 
+{
+            		temp = temp->next;
+        		}
+        		temp->next = newNode;
+    	}
+}
+
+void generateRandomWord(char* word) 	
+{
+    	Node* temp = dictionary;
+    	int count = rand() % NUM_WORDS;
+    	for (int i = 0; i < count && temp != NULL; i++) 
+{
+        		temp = temp->next;
+    	}
+    	if (temp != NULL) 
+{
+        		strcpy(word, temp->word);
+    	} 
+else {
+        		strcpy(word, ""); // Empty string if dictionary is empty
+    	}
+}
+
+int main() 
+{
+   	srand(time(NULL));
+insertWord("hello");
+    	insertWord("world");
+   	insertWord("apple");
+    	insertWord("banana");
+    	insertWord("orange");
+
+    	char input[MAX_WORD_LENGTH];
+    	char word[MAX_WORD_LENGTH];
+    	clock_t startTime, endTime;
+    	int typedWords = 0;
+printf("Welcome to Typing Tutor!\n");
+    	printf("Type the following words:\n\n");
+startTime = clock();
+while (typedWords < NUM_WORDS) 
+{
+        		generateRandomWord(word);
+        		printf("Word %d: %s\n", typedWords + 1, word);
+        		printf("Your input: ");
+        		scanf("%s", input);
+        		typedWords++;
+    	}
+endTime = clock();
+double typingSpeed = (double)typedWords / ((double)(endTime - startTime) / CLOCKS_PER_SEC / 60);
+    	printf("\nYour typing speed: %.2f words per minute\n", typingSpeed);
+ // Free memory
+    	Node* current = dictionary;
+    	while (current != NULL) 
+{
+        		Node* temp = current;
+        		current = current->next;
+        		free(temp);
+    	}
+return 0;
+}
