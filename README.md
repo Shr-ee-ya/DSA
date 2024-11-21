@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shr-ee-ya/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [3468-find-the-encrypted-string](https://github.com/Shr-ee-ya/DSA/tree/master/3468-find-the-encrypted-string) |
 <!---LeetCode Topics End-->
