@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Shr-ee-ya/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3468-find-the-encrypted-string](https://github.com/Shr-ee-ya/DSA/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Shr-ee-ya/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
