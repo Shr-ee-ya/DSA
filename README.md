@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [3396-valid-word](https://github.com/Shr-ee-ya/DSA/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Shr-ee-ya/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3468-find-the-encrypted-string](https://github.com/Shr-ee-ya/DSA/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
