@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shr-ee-ya/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Shr-ee-ya/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3396-valid-word](https://github.com/Shr-ee-ya/DSA/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Shr-ee-ya/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3468-find-the-encrypted-string](https://github.com/Shr-ee-ya/DSA/tree/master/3468-find-the-encrypted-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shr-ee-ya/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Shr-ee-ya/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
