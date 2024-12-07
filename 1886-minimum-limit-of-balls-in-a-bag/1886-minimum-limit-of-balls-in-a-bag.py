@@ -1,6 +1,21 @@
-import math
+#import math
 class Solution(object):
     def minimumSize(self, nums, maxOperations):
+        left=1
+        right=max(nums)
+        while left<right:
+            mid=(left+right)//2
+            operations=0
+            for i in nums:
+                operations+=(i-1)//mid
+            if operations<=maxOperations:
+                right=mid
+            else:
+                left=mid+1
+        return left
+
+
+        '''
         left=1
         right=0
         for i in nums:
@@ -24,4 +39,4 @@ class Solution(object):
             total_op+=count
             if total_op> maxOperations:
                 return False
-        return True 
+        return True '''
