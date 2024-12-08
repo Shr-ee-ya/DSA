@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shr-ee-ya/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shr-ee-ya/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shr-ee-ya/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
 | ------- |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shr-ee-ya/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shr-ee-ya/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shr-ee-ya/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
