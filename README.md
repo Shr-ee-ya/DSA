@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shr-ee-ya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shr-ee-ya/DSA/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0495-teemo-attacking](https://github.com/Shr-ee-ya/DSA/tree/master/0495-teemo-attacking) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shr-ee-ya/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Shr-ee-ya/DSA/tree/master/0495-teemo-attacking) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shr-ee-ya/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
