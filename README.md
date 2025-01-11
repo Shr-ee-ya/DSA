@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shr-ee-ya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shr-ee-ya/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shr-ee-ya/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shr-ee-ya/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shr-ee-ya/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shr-ee-ya/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shr-ee-ya/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
