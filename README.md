@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shr-ee-ya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Shr-ee-ya/DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shr-ee-ya/DSA/tree/master/1524-string-matching-in-an-array) |
