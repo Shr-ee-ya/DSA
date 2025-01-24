@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
 | [0495-teemo-attacking](https://github.com/Shr-ee-ya/DSA/tree/master/0495-teemo-attacking) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Shr-ee-ya/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shr-ee-ya/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shr-ee-ya/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0541-reverse-string-ii) |
+| [0952-word-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0952-word-subsets) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shr-ee-ya/DSA/tree/master/1524-string-matching-in-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
+| [0952-word-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0952-word-subsets) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shr-ee-ya/DSA/tree/master/1502-construct-k-palindrome-strings) |
