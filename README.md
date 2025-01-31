@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Shr-ee-ya/DSA/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/Shr-ee-ya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Shr-ee-ya/DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shr-ee-ya/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0541-reverse-string-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Shr-ee-ya/DSA/tree/master/0389-find-the-difference) |
 | [0837-most-common-word](https://github.com/Shr-ee-ya/DSA/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0952-word-subsets) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shr-ee-ya/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Shr-ee-ya/DSA/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shr-ee-ya/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Shr-ee-ya/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shr-ee-ya/DSA/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shr-ee-ya/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
