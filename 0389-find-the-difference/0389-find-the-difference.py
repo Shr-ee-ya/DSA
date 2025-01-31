@@ -1,9 +1,15 @@
 class Solution(object):
     def findTheDifference(self, s, t):
+        for i in t:
+            if s.count(i) !=t.count(i):
+                return i
+        """
+        #works but not optimal
         result = 0
         for char in s + t:
             result ^= ord(char)
         return chr(result)
+        """
         
         '''
         sin=set()
