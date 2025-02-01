@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shr-ee-ya/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shr-ee-ya/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Shr-ee-ya/DSA/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/Shr-ee-ya/DSA/tree/master/3429-special-array-i) |
 ## Math
 |  |
 | ------- |
