@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shr-ee-ya/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/Shr-ee-ya/DSA/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Shr-ee-ya/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/Shr-ee-ya/DSA/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/Shr-ee-ya/DSA/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shr-ee-ya/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shr-ee-ya/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Shr-ee-ya/DSA/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [3447-clear-digits](https://github.com/Shr-ee-ya/DSA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
