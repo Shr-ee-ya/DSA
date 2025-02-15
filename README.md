@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shr-ee-ya/DSA/tree/master/0415-add-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shr-ee-ya/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shr-ee-ya/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shr-ee-ya/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shr-ee-ya/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shr-ee-ya/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
