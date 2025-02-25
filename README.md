@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shr-ee-ya/DSA/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Shr-ee-ya/DSA/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/Shr-ee-ya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shr-ee-ya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shr-ee-ya/DSA/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shr-ee-ya/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
