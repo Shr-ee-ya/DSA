@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shr-ee-ya/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Shr-ee-ya/DSA/tree/master/0169-majority-element) |
+| [0463-island-perimeter](https://github.com/Shr-ee-ya/DSA/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/Shr-ee-ya/DSA/tree/master/0495-teemo-attacking) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shr-ee-ya/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0837-most-common-word](https://github.com/Shr-ee-ya/DSA/tree/master/0837-most-common-word) |
@@ -231,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shr-ee-ya/DSA/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Shr-ee-ya/DSA/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shr-ee-ya/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Shr-ee-ya/DSA/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Shr-ee-ya/DSA/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Shr-ee-ya/DSA/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
