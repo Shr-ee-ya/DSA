@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shr-ee-ya/DSA/tree/master/0415-add-strings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shr-ee-ya/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shr-ee-ya/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shr-ee-ya/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shr-ee-ya/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
